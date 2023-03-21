@@ -1,0 +1,1 @@
+Questa è una prova rigardante Git e i suoi comandi.
